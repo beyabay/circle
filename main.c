@@ -16,7 +16,7 @@ int main()
 }
 
 /**
-simplified answer using cs50 library 
+simplified answer using cs50 library *<cs50.h>*
 
 int main()
 {
