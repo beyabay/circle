@@ -15,3 +15,13 @@ int main()
 
 }
 
+/**
+simplified answer using cs50 library 
+
+int main()
+{
+    float r = get_float("Enter Radius\n");
+    float area = 3.14*r*r;
+    printf("area =%f",area);
+}
+**/
